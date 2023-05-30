@@ -5,10 +5,6 @@ To access the content of this repository via JupyterLite, click on the following
 
 ➡️ **https://g-patin.github.io/2021-141_MBVB_Kusama**
 
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
-
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
-
 
 ## Deploy your JupyterLite website on GitHub Pages
 
