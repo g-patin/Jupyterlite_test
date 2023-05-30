@@ -1,0 +1,95 @@
+parameter,value_mean,value_std
+[MULTI REFLECTANCE MEASUREMENT], ,
+author,Agnes Brokerhof-Olivia van Rooijen-Gauthier Patin,
+date_time,2023-04-21 11:47:31,
+[PROJECT], ,
+project_Id,2021-141,
+PL,Suzan de Groot,
+ML,AB,
+aanvraagdatum,2021-10-15,
+uiterste_datum,,
+comments,patroon2,
+[OBJECT], ,
+institution,Museum Boijmans van Beunigen,
+object_Id,BEK1859P,
+object_category,heritage,
+object_type,sculpture,
+object_technique,sewing,
+object_title,‘Infinity Mirror Room - Phalli’s Field,
+object_creator,"Kusuma, Yayoi",
+object_date,1965,
+object_support,textile,
+[DEVICE], ,
+device,"KM_Konica Minolta, CM-2600d",
+geometry,di:8.de:8,
+option,none,
+lamp,Xe_3 pulsed xenon lamps,
+filter,400nm cut,
+fiber_ill,none,
+white_ref,"WR3_Konica Minolta, CM-A145",
+specular_component,SCE,
+integration_time_ms,unknown,
+average,3,
+measurement_area,SAV(3mm),
+[ANALYSIS], ,
+Id,BEK1859P-group03,
+group,group03,
+color,red,
+colorants,,
+colorant_names,,
+ratio,,
+binding,,
+thickness_microns,,
+background,,
+measurements_N,4,
+[COLORIMETRIC DATA], ,
+observer,10deg,
+illuminant,D65,
+x,0.548,0.001
+y,0.324,0.0
+L*,37.732,0.058
+a*,49.382,0.123
+b*,26.27,0.222
+C*,55.935,0.211
+h,28.013,0.144
+[MEASUREMENT DATA], ,
+wavelength_nm,reflectance,
+360,0.0,0.0
+370,0.0,0.0
+380,0.0,0.0
+390,0.0,0.0
+400,0.0322,0.0004
+410,0.037,0.0003
+420,0.0401,0.0003
+430,0.0427,0.0003
+440,0.0431,0.0003
+450,0.0399,0.0003
+460,0.0348,0.0003
+470,0.0303,0.0003
+480,0.0272,0.0003
+490,0.0253,0.0002
+500,0.0243,0.0002
+510,0.0236,0.0002
+520,0.0244,0.0002
+530,0.0259,0.0001
+540,0.028,0.0001
+550,0.0314,0.0002
+560,0.0399,0.0002
+570,0.056,0.0004
+580,0.0884,0.0007
+590,0.1444,0.0008
+600,0.2234,0.0013
+610,0.3219,0.0014
+620,0.4077,0.0015
+630,0.4677,0.0018
+640,0.5079,0.0017
+650,0.5392,0.0015
+660,0.5759,0.0016
+670,0.6139,0.001
+680,0.6551,0.0011
+690,0.6902,0.0009
+700,0.7166,0.0008
+710,0.7341,0.001
+720,0.745,0.0012
+730,0.7538,0.0012
+740,0.7591,0.0012
