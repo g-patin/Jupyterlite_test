@@ -43,7 +43,5 @@ ipyleaflet
 
 # Python: plotting libraries (optional)
 plotly>=5,<6
-matplotlib
-bqplot
 colour-science
 nbformat
