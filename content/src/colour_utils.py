@@ -54,9 +54,10 @@ def tab_viewer(project = 'all'):
 
     ####### LOAD THE DATABASE FILES ########
 
-    
-    folder = 'contents/data/RS/processed/'
+    print('hello world')
+    folder = '/drive/contents/data/RS/processed/'
     print(os.listdir(folder))
+    
     
     '''
     folder_projects = '/home/gus/Documents/RCE/projects/'
