@@ -45,3 +45,8 @@ ipyleaflet
 plotly>=5,<6
 colour-science
 nbformat
+regex
+requests
+pathlib
+tqdm
+beautifulsoup4
