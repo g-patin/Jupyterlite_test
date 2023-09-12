@@ -3,7 +3,7 @@
 
 To access the content of this repository via JupyterLite, click on the following link:
 
-➡️ **https://g-patin.github.io/2021-141_MBVB_Kusama**
+➡️ **https://g-patin.github.io/RCE_2021-141_MBVB_Kusama**
 
 
 
